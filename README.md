@@ -1,5 +1,5 @@
 # CST286_StudentShuffler
-#===============================================================================
+#=======================================
 Title:        CST 286 Student Shuffler
 
 Objective:    Print out a seating arrangement for CST 286 (Fall 2016), in which 
@@ -16,7 +16,7 @@ Date:         8.27.16
 Professor:    Sathya Narayanan
 
 Class:        CST 286 // T.A
-#===============================================================================
+#=======================================
 
 This is a semi-modular student shuffler. Students can be added to one of the two lists,
 CSPP or CSI3. The program will then shuffle the lists randomly, and then arrange them so
@@ -26,4 +26,4 @@ This program was developed to encourage our two cohort programs (groups of stude
 take the same pathway of clases, and stay with each other through college and create a
 learning community) to intermingle during CST 286: Physics of Computing.
 
-#===============================================================================
+#=======================================
